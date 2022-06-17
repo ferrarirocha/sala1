@@ -143,7 +143,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-nav #fh5co-logo a span {
   color: #ea272d;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
   .fh5co-nav .menu-1 {
     display: none;
   }
@@ -473,7 +473,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-featured-menu .fh5co-heading, #fh5co-gallery .fh5co-heading, #fh5co-reservation-form .fh5co-heading {
   margin-bottom: 170px;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 600px) {
   #fh5co-featured-menu .fh5co-heading, #fh5co-gallery .fh5co-heading, #fh5co-reservation-form .fh5co-heading {
     margin-bottom: 50px;
   }
@@ -494,7 +494,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-featured-menu .fh5co-item.margin_top, #fh5co-gallery .fh5co-item.margin_top, #fh5co-reservation-form .fh5co-item.margin_top {
   margin-top: 100px;
 }
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 600px) {
   #fh5co-featured-menu .fh5co-item.margin_top, #fh5co-gallery .fh5co-item.margin_top, #fh5co-reservation-form .fh5co-item.margin_top {
     margin-top: 0;
   }
